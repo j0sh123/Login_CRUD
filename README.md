@@ -1,2 +1,2 @@
 # Login_CRUD
-login + CRUD aplicación móvil hecho en flutter
+login + CRUD aplicación móvil para una tiena hecho en flutter
